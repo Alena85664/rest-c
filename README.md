@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Описание проекта (REST-API C++ RBAC)
 
 Проект собирается **без внешних зависимостей** (кроме SQLite) и работает
@@ -238,3 +239,6 @@ Remove-Item data\rest.db
 Учебный проект. Сторонние библиотеки:
 - [`cpp-httplib`](https://github.com/yhirose/cpp-httplib) — MIT.
 - [`SQLite`](https://sqlite.org) — Public Domain.
+=======
+# rest-c
+>>>>>>> 4e006fe297ebec2cbccf0dd5ddd3625987148982
