@@ -238,4 +238,4 @@ Remove-Item data\rest.db
 Учебный проект. Сторонние библиотеки:
 - [`cpp-httplib`](https://github.com/yhirose/cpp-httplib) — MIT.
 - [`SQLite`](https://sqlite.org) — Public Domain.
-# rest-c
+
